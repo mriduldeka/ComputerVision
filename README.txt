@@ -1,4 +1,4 @@
-Retail crimes dataset is currently taken from DCSASS Dataset. T1. his data contains video files with real time crime events which occured in retail stores. Videos have been divided into five categories:
+Retail crimes dataset is currently taken from DCSASS Dataset. This has data contains video files with real time crime events which occured in retail stores. Videos have been divided into five categories:
 0. Normal shopping
 1. Keep item in external object like pocket,bag.
 2. Item switching with low value items.
